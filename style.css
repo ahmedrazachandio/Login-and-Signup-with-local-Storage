@@ -1,0 +1,11 @@
+.main{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-content: center;
+    
+}
